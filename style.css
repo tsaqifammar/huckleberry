@@ -75,3 +75,12 @@ main {
   font-size: 1.25rem;
   margin-block-end: 0;
 }
+
+/*
+
+evaluation:
+- spacing between paragraphs is better with rems / ems
+- forgot the line heights (ex. line-height: 1.2)
+- missed the bottom border of the bottom card
+
+*/
